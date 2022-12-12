@@ -1,0 +1,51 @@
+body{
+	background-image: url("img/91386-huertos.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1{
+    font-size: 80px;
+    font-family: Goudy Stout;
+    text-align: center;
+    text-decoration: none;
+}
+.ventas{
+	text-align: center;
+	size: 60px;
+	font-size: 40px;
+	color: white;
+	background-color: blue;
+	margin: auto;
+
+}
+.menu{
+	list-style: none;
+	padding: 100px;
+	background: black;
+	text-align: center;
+	font-size: 30px;
+	font-family: Cooper;
+	margin: 300px;
+	width: auto;
+	padding: 10px;
+}
+
+.menu li a{
+	text-decoration:none;
+	color: blue;
+	padding: black;
+	margin-right: 40px;
+	align-items: center;
+
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+
+}
+.menu li a:hover{
+	background: #000090;
+    transition: .5s;
+    padding: 10px;
+
+}
